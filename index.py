@@ -14,7 +14,7 @@ st.set_page_config(
      }
  )
 
-st.header('This is a header')
+st.header('I changed this text from my Mac.')
 
 st.write("Here's our first attempt at using data to create a table:")
 st.write(pd.DataFrame({
